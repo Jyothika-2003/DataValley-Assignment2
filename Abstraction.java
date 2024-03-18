@@ -1,3 +1,4 @@
+/* What is abstraction in java, how many ways can we implement abstraction, write proper java program and how to implement abstraction.*/
 // Abstract class
 abstract class Animal 
 {
