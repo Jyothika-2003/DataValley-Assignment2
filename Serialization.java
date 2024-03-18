@@ -68,8 +68,10 @@ class Customer implements Serializable
     }
 }
 
-public class SerializationExample {
-    public static void main(String[] args) {
+public class SerializationExample 
+{
+    public static void main(String[] args) 
+    {
         // Create a Customer object
         Customer customer = new Customer(1, "Abc Xyz", "6878534576", "Andhra Pradesh");
 
