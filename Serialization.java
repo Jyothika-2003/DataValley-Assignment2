@@ -68,7 +68,7 @@ class Customer implements Serializable
     }
 }
 
-public class SerializationExample 
+public class Serialization 
 {
     public static void main(String[] args) 
     {
